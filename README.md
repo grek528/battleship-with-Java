@@ -61,6 +61,3 @@ While working on this project, I practiced working with multidimensional arrays,
 
 I also learned how to break a larger program into smaller methods and implement game logic such as ship placement, shooting, fog of war, multiplayer turns, and win conditions.
 
-## Author
-
-Created as a learning project for the JetBrains Academy / Hyperskill Java course.
