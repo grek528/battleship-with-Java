@@ -55,9 +55,3 @@ Run it:
 java -cp src battleship.Main
 ```
 
-## What I learned
-
-While working on this project, I practiced working with multidimensional arrays, methods, loops, input validation, exception handling, and program state.
-
-I also learned how to break a larger program into smaller methods and implement game logic such as ship placement, shooting, fog of war, multiplayer turns, and win conditions.
-
