@@ -1,6 +1,6 @@
 # Battleship with Java
 
-A console-based Battleship game written in Java as part of the JetBrains Academy / Hyperskill Java course.
+A console-based Battleship game written in Java.
 
 ## About the project
 
